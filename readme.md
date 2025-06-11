@@ -1,3 +1,5 @@
+Logs when keyboard shows up:
+
 ```
 -[UIInputViewController needsInputModeSwitchKey] was called before a connection was established to the host application. This will produce an inaccurate result. Please make sure to call this after your primary view controller has been initialized.
 License activation status changed to Valid - Capabilities: [coreSDK, storeData, monitorStress, health, themes]
