@@ -19,8 +19,14 @@ License activation status changed to Invalid
 ```
 
 FleksySDK: 5.0.0
+
 Xcode: 16.3 
+
 iOS: 18.5 (22F76)
+
 iPadOS: 18.5 (22F76)
+
 Swift: Apple Swift version 6.1 (swiftlang-6.1.0.110.21 clang-1700.0.13.3)
+
 PC: MacOS 15.4.1
+
